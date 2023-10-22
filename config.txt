@@ -1,0 +1,3 @@
+#Config for WebServer
+Port: 7878
+ThreadPoolSize: 5
