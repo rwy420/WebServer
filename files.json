@@ -1,0 +1,17 @@
+[
+{
+"path":"./www/default/400.html","public":true
+},{
+"path":"./www/default/403.html","public":true
+},{
+"path":"./www/default/404.html","public":true
+},{
+"path":"./www/index.html","public":true
+},{
+"path":"./www/javascript.html","public":true
+},{
+"path":"./www/js/script.js","public":true
+},{
+"path":"./www/test.html","public":false
+}
+]

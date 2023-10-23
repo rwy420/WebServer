@@ -1,0 +1,12 @@
+Worker 0 got a job; executing.
+Response: 200 OK. File: ./www/javascript.html
+Worker 1 got a job; executing.
+Response: 200 OK. File: ./www/js/script.js
+Worker 2 got a job; executing.
+Response: 200 OK. File: ./www/javascript.html
+Worker 3 got a job; executing.
+Response: 200 OK. File: ./www/js/script.js
+Worker 4 got a job; executing.
+Worker 0 got a job; executing.
+Response: 200 OK. File: ./www/javascript.html
+Response: 200 OK. File: ./www/js/script.js
